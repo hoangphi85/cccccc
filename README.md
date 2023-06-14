@@ -1,2 +1,1 @@
-# cccccc
-cccccc
+.env.example
